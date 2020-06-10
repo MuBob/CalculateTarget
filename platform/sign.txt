@@ -1,2 +1,0 @@
-pwd:111111
-alias:bobmu
